@@ -1,0 +1,19 @@
+{
+  "title": "DSXP Explorer",
+  "server": "https://dapi.swipechain.org/api",
+  "alias": "Development",
+  "activeDelegates": 51,
+  "rewardOffset": 10800,
+  "currencies": [],
+  "knownWallets": {},
+  "defaults": {
+    "token": "DSXP",
+    "symbol": "SXP",
+    "currency": null,
+    "priceChartOptions": {
+      "enabled": false,
+      "period": "day",
+      "type": "price"
+    }
+  }
+}
