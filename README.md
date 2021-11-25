@@ -2,8 +2,6 @@
 
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
 
-> Lead Maintainer: [Michel Kraaijeveld](https://github.com/ItsANameToo)
-
 ## Build Setup
 
 ### 1. Clone the repository
@@ -108,4 +106,5 @@ This project exists thanks to all the people who [contribute](../../contributors
 
 ## License
 
-[MIT](LICENSE) © [Swipechain Ecosystem](https://swipechain.org)
+[MIT](LICENSE) © [Ark Ecosystem](https://ark.io)
+[MIT](LICENSE) © [Swipechain](https://swipechain.org)
