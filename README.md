@@ -2,6 +2,8 @@
 
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
 
+> Lead Maintainer: [Michel Kraaijeveld](https://github.com/ItsANameToo)
+
 ## Build Setup
 
 ### 1. Clone the repository
